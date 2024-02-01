@@ -1,4 +1,4 @@
-// This is the actual file of hostel management system
+// This is C++ project "hostel management system"
 #include <iostream>
 #include <string.h>
 using namespace std;
