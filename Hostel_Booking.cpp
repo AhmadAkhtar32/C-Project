@@ -1,4 +1,6 @@
 // This is C++ project "hostel management system"
+//This Might Be Used As A Smester Project
+
 #include <iostream>
 #include <string.h>
 using namespace std;
