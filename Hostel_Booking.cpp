@@ -1,5 +1,5 @@
 // This is C++ project "hostel management system"
-//This Might Be Used As A Smester Project
+//This Might Be Used As A Smester Project For pf C++
 
 #include <iostream>
 #include <string.h>
